@@ -1,0 +1,6 @@
+Chance favors the prepared mind.
+1 2 4 8 16 32
+1 -916
+6 21
+5 115
+6 3 4 5 1 2
